@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tn24h.com	TRUE	/	FALSE	1999999999	alg-wc-wl-user-id	f7fba1ca22804211a514a24f8b46bccb
+tn24h.com	TRUE	/	FALSE	1999999999	PHPSESSID	998c6a026ea6bf01b778b20adcb53c4b
+tn24h.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+tn24h.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_65f124f6d03a27179103cd1e1d83d4fe	215603899f224cbe699538cf572d7c6d%7C%7C1620311866%7C%7C1620308266%7C%7C19ee8ebb8587c294fc228d62ba171b8e
+tn24h.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	988%7C220%7C978%7C301%7C502%7C503%7C514%7C189%7C273%7C522%7C280%7C517%7C506%7C513%7C960
+tn24h.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	688bd7f4aa718f91e1749a761e1f3f10
+

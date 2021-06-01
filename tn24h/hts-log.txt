@@ -1,0 +1,466 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 May 2021 21:37:18 at https://tn24h.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tn24h.com/ -O1 "B:\project\tn24h\tn24h" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:37:56	Error: 	"Forbidden" (403) at link https://tn24h.com/xmlrpc.php (from https://tn24h.com/)
+21:38:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 7492): https://tn24h.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.ttf?ver=xu2uyi
+21:38:33	Error: 	"Forbidden" (403) at link https://tn24h.com/xmlrpc.php?rsd (from https://tn24h.com/)
+21:40:17	Warning: 	Found for https://tn24h.com/?add-to-cart=1051
+21:40:17	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1051 to https://tn24h.com/cart/
+21:40:23	Warning: 	Found for https://tn24h.com/?add-to-cart=1045
+21:40:23	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1045 to https://tn24h.com/cart/
+21:40:40	Warning: 	Found for https://tn24h.com/?add-to-cart=1032
+21:40:40	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1032 to https://tn24h.com/cart/
+21:40:48	Warning: 	Found for https://tn24h.com/?add-to-cart=1027
+21:40:48	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1027 to https://tn24h.com/cart/
+21:40:57	Warning: 	Found for https://tn24h.com/?add-to-cart=1022
+21:40:57	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1022 to https://tn24h.com/cart/
+21:41:07	Warning: 	Found for https://tn24h.com/?add-to-cart=1016
+21:41:07	Warning: 	File has moved from https://tn24h.com/?add-to-cart=1016 to https://tn24h.com/cart/
+21:41:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/ (from https://tn24h.com/)
+21:41:16	Warning: 	Found for https://tn24h.com/?add-to-cart=988
+21:41:16	Warning: 	File has moved from https://tn24h.com/?add-to-cart=988 to https://tn24h.com/cart/
+21:41:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/hot-items/ (from https://tn24h.com/)
+21:41:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/tempus-urna-et-pharetra-pharetra-massa-massa-ultricies-mi-quis-2-copy/ (from https://tn24h.com/)
+21:42:24	Error: 	"Bad Request" (400) at link https://tn24h.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://tn24h.com/)
+21:42:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.eot?ver=xu2uyi (from https://tn24h.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.25.2)
+21:42:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff?ver=xu2uyi (from https://tn24h.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.25.2)
+21:42:25	Warning: 	Moved Permanently for https://tn24h.com/?p=9
+21:42:25	Warning: 	File has moved from https://tn24h.com/?p=9 to https://tn24h.com/account/
+21:42:28	Warning: 	Moved Permanently for https://tn24h.com/?p=1001
+21:42:28	Warning: 	File has moved from https://tn24h.com/?p=1001 to https://tn24h.com/register/
+21:42:34	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=243
+21:42:34	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=243 to https://tn24h.com/cart/
+21:42:40	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=237
+21:42:40	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=237 to https://tn24h.com/cart/
+21:42:54	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=263
+21:42:54	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=263 to https://tn24h.com/cart/
+21:43:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/all-clocks/?add-to-cart=228 (from https://tn24h.com/product-category/all-clocks/)
+21:43:11	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=248
+21:43:11	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=248 to https://tn24h.com/cart/
+21:43:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/rare-thirty-day-lunar-anniversary-vosseler-clock/ (from https://tn24h.com/product-category/all-clocks/)
+21:43:14	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=220
+21:43:14	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=220 to https://tn24h.com/cart/
+21:43:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/ (from https://tn24h.com/product-category/all-clocks/)
+21:43:15	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=978
+21:43:15	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=978 to https://tn24h.com/cart/
+21:43:28	Warning: 	Found for https://tn24h.com/product-category/all-clocks/?add-to-cart=215
+21:43:28	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/?add-to-cart=215 to https://tn24h.com/cart/
+21:44:06	Warning: 	Found for https://tn24h.com/product-category/all-clocks/anniversary-clocks/?add-to-cart=228
+21:44:06	Warning: 	File has moved from https://tn24h.com/product-category/all-clocks/anniversary-clocks/?add-to-cart=228 to https://tn24h.com/cart/
+21:44:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/antiques/feed/ (from https://tn24h.com/product-category/antiques/)
+21:44:41	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=490
+21:44:41	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=490 to https://tn24h.com/cart/
+21:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/antique-2-weights-grandfather-clock/ (from https://tn24h.com/product-category/grandfather-clocks/)
+21:44:55	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=341
+21:44:55	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=341 to https://tn24h.com/cart/
+21:45:07	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=347
+21:45:07	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=347 to https://tn24h.com/cart/
+21:45:24	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=335
+21:45:24	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=335 to https://tn24h.com/cart/
+21:45:48	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=507
+21:45:48	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=507 to https://tn24h.com/cart/
+21:46:19	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=504
+21:46:19	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=504 to https://tn24h.com/cart/
+21:46:33	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=491
+21:46:33	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=491 to https://tn24h.com/cart/
+21:46:49	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=506
+21:46:49	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=506 to https://tn24h.com/cart/
+21:47:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=508 (from https://tn24h.com/product-category/grandfather-clocks/)
+21:47:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=311 (from https://tn24h.com/product-category/grandfather-clocks/)
+21:47:34	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=488
+21:47:34	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=488 to https://tn24h.com/cart/
+21:47:57	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=505
+21:47:57	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/?add-to-cart=505 to https://tn24h.com/cart/
+21:48:06	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=507
+21:48:06	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=507 to https://tn24h.com/cart/
+21:48:12	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=491
+21:48:12	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=491 to https://tn24h.com/cart/
+21:48:14	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=508
+21:48:14	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=508 to https://tn24h.com/cart/
+21:48:25	Warning: 	Found for https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=502
+21:48:25	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/grandfather-clocks-grandfather-clocks/?add-to-cart=502 to https://tn24h.com/cart/
+21:48:51	Warning: 	Found for https://tn24h.com/product-category/clock-parts/?add-to-cart=261
+21:48:51	Warning: 	File has moved from https://tn24h.com/product-category/clock-parts/?add-to-cart=261 to https://tn24h.com/cart/
+21:49:00	Warning: 	Found for https://tn24h.com/product-category/clock-parts/?add-to-cart=269
+21:49:00	Warning: 	File has moved from https://tn24h.com/product-category/clock-parts/?add-to-cart=269 to https://tn24h.com/cart/
+21:49:27	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=520
+21:49:27	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=520 to https://tn24h.com/cart/
+21:49:36	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=515
+21:49:36	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=515 to https://tn24h.com/cart/
+21:49:42	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=514
+21:49:42	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=514 to https://tn24h.com/cart/
+21:49:56	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=512
+21:49:56	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=512 to https://tn24h.com/cart/
+21:50:08	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=513
+21:50:08	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=513 to https://tn24h.com/cart/
+21:50:17	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=518
+21:50:17	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=518 to https://tn24h.com/cart/
+21:50:24	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=189
+21:50:24	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=189 to https://tn24h.com/cart/
+21:50:36	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=273
+21:50:36	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=273 to https://tn24h.com/cart/
+21:50:44	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=516
+21:50:44	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=516 to https://tn24h.com/cart/
+21:50:51	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=522
+21:50:51	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=522 to https://tn24h.com/cart/
+21:51:04	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=280
+21:51:04	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=280 to https://tn24h.com/cart/
+21:51:25	Warning: 	Found for https://tn24h.com/product-category/watches/?add-to-cart=517
+21:51:25	Warning: 	File has moved from https://tn24h.com/product-category/watches/?add-to-cart=517 to https://tn24h.com/cart/
+21:51:37	Warning: 	Found for https://tn24h.com/product-category/watches/men-watches/?add-to-cart=512
+21:51:37	Warning: 	File has moved from https://tn24h.com/product-category/watches/men-watches/?add-to-cart=512 to https://tn24h.com/cart/
+21:51:43	Warning: 	Found for https://tn24h.com/product-category/watches/men-watches/?add-to-cart=273
+21:51:43	Warning: 	File has moved from https://tn24h.com/product-category/watches/men-watches/?add-to-cart=273 to https://tn24h.com/cart/
+21:52:25	Warning: 	Found for https://tn24h.com/product-category/pocket-watches/?add-to-cart=947
+21:52:25	Warning: 	File has moved from https://tn24h.com/product-category/pocket-watches/?add-to-cart=947 to https://tn24h.com/cart/
+21:52:39	Warning: 	Found for https://tn24h.com/product-category/pocket-watches/?add-to-cart=208
+21:52:39	Warning: 	File has moved from https://tn24h.com/product-category/pocket-watches/?add-to-cart=208 to https://tn24h.com/cart/
+21:53:09	Warning: 	Found for https://tn24h.com/product-category/watch-parts/?add-to-cart=1022
+21:53:09	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/?add-to-cart=1022 to https://tn24h.com/cart/
+21:53:11	Warning: 	Found for https://tn24h.com/product-category/watch-parts/?add-to-cart=1032
+21:53:11	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/?add-to-cart=1032 to https://tn24h.com/cart/
+21:53:21	Warning: 	Moved Permanently for https://tn24h.com/?p=870
+21:53:21	Warning: 	File has moved from https://tn24h.com/?p=870 to https://tn24h.com/designed-by-yourself/
+21:53:23	Warning: 	Moved Permanently for https://tn24h.com/?p=79
+21:53:23	Warning: 	File has moved from https://tn24h.com/?p=79 to https://tn24h.com/wishlist/
+21:53:28	Warning: 	Moved Permanently for https://tn24h.com/?p=7
+21:53:28	Warning: 	File has moved from https://tn24h.com/?p=7 to https://tn24h.com/cart/
+21:53:31	Warning: 	Found for https://tn24h.com/author/sunnyside/
+21:53:31	Warning: 	File has moved from https://tn24h.com/author/sunnyside/ to https://tn24h.com/user/sunnyside/
+21:53:49	Warning: 	Found for https://tn24h.com/product-category/news-item/?add-to-cart=507
+21:53:49	Warning: 	File has moved from https://tn24h.com/product-category/news-item/?add-to-cart=507 to https://tn24h.com/cart/
+21:54:05	Warning: 	Moved Permanently for https://tn24h.com/?p=1051
+21:54:05	Warning: 	File has moved from https://tn24h.com/?p=1051 to https://tn24h.com/product/a-e-elbe-bloomington-pocket-watch/
+21:54:28	Warning: 	Moved Permanently for https://tn24h.com/?p=1045
+21:54:28	Warning: 	File has moved from https://tn24h.com/?p=1045 to https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/
+21:54:53	Warning: 	Found for https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=269
+21:54:53	Warning: 	File has moved from https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=269 to https://tn24h.com/cart/
+21:54:55	Warning: 	Moved Permanently for https://tn24h.com/?p=1038
+21:54:55	Warning: 	File has moved from https://tn24h.com/?p=1038 to https://tn24h.com/product/halminton-railway-special-pocket-watch/
+21:55:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=1027 (from https://tn24h.com/product/halminton-railway-special-pocket-watch/)
+21:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=1016 (from https://tn24h.com/product/halminton-railway-special-pocket-watch/)
+21:55:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=988 (from https://tn24h.com/product/halminton-railway-special-pocket-watch/)
+21:55:18	Warning: 	Found for https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=208
+21:55:18	Warning: 	File has moved from https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=208 to https://tn24h.com/cart/
+21:55:25	Warning: 	Moved Permanently for https://tn24h.com/?p=1032
+21:55:25	Warning: 	File has moved from https://tn24h.com/?p=1032 to https://tn24h.com/product/elgin-grade-94-6s-11j-pocket-watch-movement/
+21:55:43	Warning: 	Found for https://tn24h.com/product/elgin-grade-94-6s-11j-pocket-watch-movement/?add-to-cart=208
+21:55:43	Warning: 	File has moved from https://tn24h.com/product/elgin-grade-94-6s-11j-pocket-watch-movement/?add-to-cart=208 to https://tn24h.com/cart/
+21:55:50	Warning: 	Moved Permanently for https://tn24h.com/?p=1027
+21:55:50	Warning: 	File has moved from https://tn24h.com/?p=1027 to https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/
+21:56:08	Warning: 	Found for https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=311
+21:56:08	Warning: 	File has moved from https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=311 to https://tn24h.com/cart/
+21:56:13	Warning: 	Moved Permanently for https://tn24h.com/?p=1022
+21:56:13	Warning: 	File has moved from https://tn24h.com/?p=1022 to https://tn24h.com/product/elgin-6s-15j-grade-67-pocket-watch-movement/
+21:56:33	Warning: 	Moved Permanently for https://tn24h.com/?p=1016
+21:56:33	Warning: 	File has moved from https://tn24h.com/?p=1016 to https://tn24h.com/product/am-watch-co-size-6s-9j-waltham-pocket-watch-movement/
+21:57:17	Warning: 	Moved Permanently for https://tn24h.com/?p=36
+21:57:17	Warning: 	File has moved from https://tn24h.com/?p=36 to https://tn24h.com/pharetra-convallis-posuere-morbi-leo-urna-molestie-at-elementum-eu/
+21:57:19	Warning: 	Moved Permanently for https://tn24h.com/?p=32
+21:57:19	Warning: 	File has moved from https://tn24h.com/?p=32 to https://tn24h.com/tempus-urna-et-pharetra-pharetra-massa-massa-ultricies-mi-quis/
+21:57:21	Warning: 	Moved Permanently for https://tn24h.com/?p=30
+21:57:21	Warning: 	File has moved from https://tn24h.com/?p=30 to https://tn24h.com/a-room-we-love-from-the-1stdibs-50-the-archers-copy-copy/
+21:57:24	Warning: 	Moved Permanently for https://tn24h.com/?p=26
+21:57:24	Warning: 	File has moved from https://tn24h.com/?p=26 to https://tn24h.com/a-room-we-love-from-the-1stdibs-50-charlotte-barnes-interior-design/
+21:57:28	Warning: 	Moved Permanently for https://tn24h.com/?p=24
+21:57:28	Warning: 	File has moved from https://tn24h.com/?p=24 to https://tn24h.com/in-the-mid-century-american-home-radical-design-began-in-the-kitchen/
+21:57:32	Warning: 	Moved Permanently for https://tn24h.com/?p=18
+21:57:32	Warning: 	File has moved from https://tn24h.com/?p=18 to https://tn24h.com/a-room-we-love-from-the-1stdibs-50-the-archers/
+21:57:34	Warning: 	Moved Permanently for https://tn24h.com/?p=86
+21:57:34	Warning: 	File has moved from https://tn24h.com/?p=86 to https://tn24h.com/about-us/
+21:57:36	Warning: 	Moved Permanently for https://tn24h.com/?p=88
+21:57:36	Warning: 	File has moved from https://tn24h.com/?p=88 to https://tn24h.com/support-center/
+21:57:40	Warning: 	Moved Permanently for https://tn24h.com/?p=90
+21:57:40	Warning: 	File has moved from https://tn24h.com/?p=90 to https://tn24h.com/questions-answers/
+21:57:41	Warning: 	Moved Permanently for https://tn24h.com/?p=109
+21:57:41	Warning: 	File has moved from https://tn24h.com/?p=109 to https://tn24h.com/contact-us/
+21:57:43	Warning: 	Moved Permanently for https://tn24h.com/?p=92
+21:57:43	Warning: 	File has moved from https://tn24h.com/?p=92 to https://tn24h.com/returns-exchange-policy/
+21:57:44	Warning: 	Moved Permanently for https://tn24h.com/?p=94
+21:57:44	Warning: 	File has moved from https://tn24h.com/?p=94 to https://tn24h.com/returns-center/
+21:57:44	Warning: 	Moved Permanently for https://tn24h.com/?p=96
+21:57:44	Warning: 	File has moved from https://tn24h.com/?p=96 to https://tn24h.com/warranty-policy/
+21:57:48	Warning: 	Moved Permanently for https://tn24h.com/?p=98
+21:57:48	Warning: 	File has moved from https://tn24h.com/?p=98 to https://tn24h.com/warranty-repair-center/
+21:57:51	Warning: 	Moved Permanently for https://tn24h.com/?p=100
+21:57:51	Warning: 	File has moved from https://tn24h.com/?p=100 to https://tn24h.com/shipping-options/
+21:57:52	Warning: 	Moved Permanently for https://tn24h.com/?p=102
+21:57:52	Warning: 	File has moved from https://tn24h.com/?p=102 to https://tn24h.com/international-shipping/
+21:57:55	Warning: 	Moved Permanently for https://tn24h.com/?p=122
+21:57:55	Warning: 	File has moved from https://tn24h.com/?p=122 to https://tn24h.com/terms-conditions/
+21:57:56	Warning: 	Moved Permanently for https://tn24h.com/?p=124
+21:57:56	Warning: 	File has moved from https://tn24h.com/?p=124 to https://tn24h.com/privacy-policy/
+21:58:00	Warning: 	Moved Permanently for https://tn24h.com/?p=126
+21:58:00	Warning: 	File has moved from https://tn24h.com/?p=126 to https://tn24h.com/site-map/
+21:58:03	Warning: 	Moved Permanently for https://tn24h.com/?p=104
+21:58:03	Warning: 	File has moved from https://tn24h.com/?p=104 to https://tn24h.com/payment-options/
+21:58:04	Warning: 	Moved Permanently for https://tn24h.com/?p=1000
+21:58:04	Warning: 	File has moved from https://tn24h.com/?p=1000 to https://tn24h.com/login/
+21:58:13	Warning: 	Moved Permanently for https://tn24h.com/?p=243
+21:58:13	Warning: 	File has moved from https://tn24h.com/?p=243 to https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/
+21:58:35	Warning: 	Moved Permanently for https://tn24h.com/?p=237
+21:58:35	Warning: 	File has moved from https://tn24h.com/?p=237 to https://tn24h.com/product/black-forest-2-deers-butting-and-a-hunting-man-cuckoo-clock/
+21:58:59	Warning: 	Moved Permanently for https://tn24h.com/?p=255
+21:58:59	Warning: 	File has moved from https://tn24h.com/?p=255 to https://tn24h.com/product/grandfather-clock-dial-1-for-jauch-clock-movement/
+21:59:26	Warning: 	Moved Permanently for https://tn24h.com/?p=263
+21:59:26	Warning: 	File has moved from https://tn24h.com/?p=263 to https://tn24h.com/product/grandfather-clock-shells-for-5-tubular-urgos-grandfather-clock/
+21:59:52	Warning: 	Moved Permanently for https://tn24h.com/?p=228
+21:59:52	Warning: 	File has moved from https://tn24h.com/?p=228 to https://tn24h.com/product/large-kieninger-obergfell-anniversary-400-day-clock/
+22:00:22	Warning: 	Moved Permanently for https://tn24h.com/?p=248
+22:00:22	Warning: 	File has moved from https://tn24h.com/?p=248 to https://tn24h.com/product/large-one-day-dutch-wall-clock/
+22:01:03	Warning: 	Moved Permanently for https://tn24h.com/?p=215
+22:01:03	Warning: 	File has moved from https://tn24h.com/?p=215 to https://tn24h.com/product/vintage-kaiser-universe-anniversary-clock/
+22:01:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/all-clocks/anniversary-clocks/elgin/?add-to-cart=1022 (from https://tn24h.com/product-category/all-clocks/anniversary-clocks/elgin/)
+22:02:21	Warning: 	Moved Permanently for https://tn24h.com/?p=490
+22:02:21	Warning: 	File has moved from https://tn24h.com/?p=490 to https://tn24h.com/product/5-tube-grandfather-clock-project/
+22:02:41	Warning: 	Moved Permanently for https://tn24h.com/?p=341
+22:02:41	Warning: 	File has moved from https://tn24h.com/?p=341 to https://tn24h.com/product/antique-3-holes-kienzle-grandmother-clock/
+22:03:08	Warning: 	Moved Permanently for https://tn24h.com/?p=347
+22:03:08	Warning: 	File has moved from https://tn24h.com/?p=347 to https://tn24h.com/product/antique-colonial-3-tube-grandfather-clock/
+22:03:23	Warning: 	Moved Permanently for https://tn24h.com/?p=335
+22:03:23	Warning: 	File has moved from https://tn24h.com/?p=335 to https://tn24h.com/product/antique-colonial-mfg-co-grandmother-clock/
+22:03:38	Warning: 	Moved Permanently for https://tn24h.com/?p=507
+22:03:38	Warning: 	File has moved from https://tn24h.com/?p=507 to https://tn24h.com/product/antique-german-6-tubular-grandfather-clock/
+22:03:54	Warning: 	Moved Permanently for https://tn24h.com/?p=321
+22:03:54	Warning: 	File has moved from https://tn24h.com/?p=321 to https://tn24h.com/product/antique-herschede-9-tube-grandfather-clock/
+22:04:11	Warning: 	Moved Permanently for https://tn24h.com/?p=504
+22:04:11	Warning: 	File has moved from https://tn24h.com/?p=504 to https://tn24h.com/product/antique-large-2-weights-grandfather-clock/
+22:04:28	Warning: 	Moved Permanently for https://tn24h.com/?p=491
+22:04:28	Warning: 	File has moved from https://tn24h.com/?p=491 to https://tn24h.com/product/antique-scottish-8-day-grandfather-clock/
+22:04:47	Warning: 	Moved Permanently for https://tn24h.com/?p=506
+22:04:47	Warning: 	File has moved from https://tn24h.com/?p=506 to https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/
+22:05:07	Warning: 	Moved Permanently for https://tn24h.com/?p=329
+22:05:07	Warning: 	File has moved from https://tn24h.com/?p=329 to https://tn24h.com/product/beautiful-howard-miller-grandfather-clock/
+22:05:23	Warning: 	Moved Permanently for https://tn24h.com/?p=508
+22:05:23	Warning: 	File has moved from https://tn24h.com/?p=508 to https://tn24h.com/product/herschede-5-tube-grandfather-clock/
+22:05:42	Warning: 	Moved Permanently for https://tn24h.com/?p=311
+22:05:42	Warning: 	File has moved from https://tn24h.com/?p=311 to https://tn24h.com/product/herschede-nine-tube-no-294-grandfather-clock/
+22:06:00	Warning: 	Moved Permanently for https://tn24h.com/?p=488
+22:06:00	Warning: 	File has moved from https://tn24h.com/?p=488 to https://tn24h.com/product/howard-miller-9-tube-grandfather-clock-model-the-president-copy/
+22:06:20	Warning: 	Moved Permanently for https://tn24h.com/?p=197
+22:06:20	Warning: 	File has moved from https://tn24h.com/?p=197 to https://tn24h.com/product/howard-miller-la-rochelle-grandfather-clock/
+22:06:41	Warning: 	Moved Permanently for https://tn24h.com/?p=505
+22:06:41	Warning: 	File has moved from https://tn24h.com/?p=505 to https://tn24h.com/product/no-190-howard-miller-5-tube-grandfather-clock/
+22:07:02	Warning: 	Moved Permanently for https://tn24h.com/product-category/grandfather-clocks/page/1/
+22:07:02	Warning: 	File has moved from https://tn24h.com/product-category/grandfather-clocks/page/1/ to https://tn24h.com/product-category/grandfather-clocks/
+22:07:07	Warning: 	Moved Permanently for https://tn24h.com/?p=502
+22:07:07	Warning: 	File has moved from https://tn24h.com/?p=502 to https://tn24h.com/product/vintage-black-forest-grandfather-clock/
+22:07:26	Warning: 	Moved Permanently for https://tn24h.com/?p=503
+22:07:26	Warning: 	File has moved from https://tn24h.com/?p=503 to https://tn24h.com/product/vintage-hand-carved-black-forest-grandfather-clock/
+22:07:52	Warning: 	Moved Permanently for https://tn24h.com/?p=261
+22:07:52	Warning: 	File has moved from https://tn24h.com/?p=261 to https://tn24h.com/product/grandfather-clock-chime-rods-for-large-urgos-clock-movement/
+22:08:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/grandfather-clock-chime-rods-for-large-urgos-clock-movement/?add-to-cart=988 (from https://tn24h.com/product/grandfather-clock-chime-rods-for-large-urgos-clock-movement/)
+22:08:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/grandfather-clock-chime-rods-for-large-urgos-clock-movement/?add-to-cart=280 (from https://tn24h.com/product/grandfather-clock-chime-rods-for-large-urgos-clock-movement/)
+22:08:11	Warning: 	Moved Permanently for https://tn24h.com/?p=269
+22:08:11	Warning: 	File has moved from https://tn24h.com/?p=269 to https://tn24h.com/product/grandfather-clock-pendulum-1-for-urgos-clock-movement/
+22:08:49	Warning: 	Moved Permanently for https://tn24h.com/?p=519
+22:08:49	Warning: 	File has moved from https://tn24h.com/?p=519 to https://tn24h.com/product/bulova-23j-automatic-watch/
+22:09:11	Warning: 	Moved Permanently for https://tn24h.com/?p=520
+22:09:11	Warning: 	File has moved from https://tn24h.com/?p=520 to https://tn24h.com/product/buren-automatic-watch/
+22:09:32	Warning: 	Moved Permanently for https://tn24h.com/?p=515
+22:09:32	Warning: 	File has moved from https://tn24h.com/?p=515 to https://tn24h.com/product/cyma-36000-chronometere-automatic-watch/
+22:09:54	Warning: 	Moved Permanently for https://tn24h.com/?p=514
+22:09:54	Warning: 	File has moved from https://tn24h.com/?p=514 to https://tn24h.com/product/fossil-authentic-quartz-watch/
+22:10:12	Warning: 	Moved Permanently for https://tn24h.com/?p=512
+22:10:12	Warning: 	File has moved from https://tn24h.com/?p=512 to https://tn24h.com/product/san-francisco-49-quartz-watch/
+22:10:34	Warning: 	Moved Permanently for https://tn24h.com/?p=513
+22:10:34	Warning: 	File has moved from https://tn24h.com/?p=513 to https://tn24h.com/product/__trashed-4/
+22:10:52	Warning: 	Found for https://tn24h.com/product/__trashed-4/?add-to-cart=512
+22:10:52	Warning: 	File has moved from https://tn24h.com/product/__trashed-4/?add-to-cart=512 to https://tn24h.com/cart/
+22:10:54	Warning: 	Moved Permanently for https://tn24h.com/?p=518
+22:10:54	Warning: 	File has moved from https://tn24h.com/?p=518 to https://tn24h.com/product/vintage-bulova-ambassador-automatic-watch/
+22:11:13	Warning: 	Found for https://tn24h.com/product/vintage-bulova-ambassador-automatic-watch/?add-to-cart=512
+22:11:13	Warning: 	File has moved from https://tn24h.com/product/vintage-bulova-ambassador-automatic-watch/?add-to-cart=512 to https://tn24h.com/cart/
+22:11:16	Warning: 	Moved Permanently for https://tn24h.com/?p=189
+22:11:16	Warning: 	File has moved from https://tn24h.com/?p=189 to https://tn24h.com/product/vintage-bulova-automatic-watch/
+22:11:32	Warning: 	Found for https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=512
+22:11:32	Warning: 	File has moved from https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=512 to https://tn24h.com/cart/
+22:11:32	Warning: 	Moved Permanently for https://tn24h.com/?p=273
+22:11:32	Warning: 	File has moved from https://tn24h.com/?p=273 to https://tn24h.com/product/vintage-hamilton-electronic-quartz-watch/
+22:11:51	Warning: 	Moved Permanently for https://tn24h.com/?p=516
+22:11:51	Warning: 	File has moved from https://tn24h.com/?p=516 to https://tn24h.com/product/vintage-movado-thin-watch/
+22:12:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-movado-thin-watch/?add-to-cart=280 (from https://tn24h.com/product/vintage-movado-thin-watch/)
+22:12:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-movado-thin-watch/?add-to-cart=520 (from https://tn24h.com/product/vintage-movado-thin-watch/)
+22:12:14	Warning: 	Moved Permanently for https://tn24h.com/?p=522
+22:12:14	Warning: 	File has moved from https://tn24h.com/?p=522 to https://tn24h.com/product/vintage-stellaris-17j-windup-watch/
+22:12:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=988 (from https://tn24h.com/product/vintage-stellaris-17j-windup-watch/)
+22:12:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=280 (from https://tn24h.com/product/vintage-stellaris-17j-windup-watch/)
+22:12:37	Warning: 	Moved Permanently for https://tn24h.com/?p=280
+22:12:37	Warning: 	File has moved from https://tn24h.com/?p=280 to https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/
+22:12:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=263 (from https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/)
+22:12:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=208 (from https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/)
+22:12:59	Warning: 	Moved Permanently for https://tn24h.com/?p=521
+22:12:59	Warning: 	File has moved from https://tn24h.com/?p=521 to https://tn24h.com/product/vintage-technos-automatic-watch/
+22:13:21	Warning: 	Moved Permanently for https://tn24h.com/?p=517
+22:13:21	Warning: 	File has moved from https://tn24h.com/?p=517 to https://tn24h.com/product/vintage-tissot-antimagnetic-watch/
+22:13:43	Warning: 	Found for https://tn24h.com/product-category/pocket-watches/arnex/?add-to-cart=947
+22:13:43	Warning: 	File has moved from https://tn24h.com/product-category/pocket-watches/arnex/?add-to-cart=947 to https://tn24h.com/cart/
+22:13:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/hebdomas/?add-to-cart=516 (from https://tn24h.com/product-category/pocket-watches/hebdomas/)
+22:13:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/illinois/?add-to-cart=515 (from https://tn24h.com/product-category/pocket-watches/illinois/)
+22:13:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/lady-pocket-watches/?add-to-cart=516 (from https://tn24h.com/product-category/pocket-watches/lady-pocket-watches/)
+22:13:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/men-pocket-watches/?add-to-cart=517 (from https://tn24h.com/product-category/pocket-watches/men-pocket-watches/)
+22:14:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/seth-thomas/?add-to-cart=517 (from https://tn24h.com/product-category/pocket-watches/seth-thomas/)
+22:14:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/waltham/?add-to-cart=516 (from https://tn24h.com/product-category/pocket-watches/waltham/)
+22:14:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/pocket-watches/?add-to-cart=515 (from https://tn24h.com/product-category/pocket-watches/?add-to-cart=1051)
+22:14:14	Warning: 	Moved Permanently for https://tn24h.com/?p=947
+22:14:14	Warning: 	File has moved from https://tn24h.com/?p=947 to https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/
+22:14:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=988 (from https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/)
+22:14:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=215 (from https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/)
+22:14:35	Warning: 	Moved Permanently for https://tn24h.com/?p=208
+22:14:35	Warning: 	File has moved from https://tn24h.com/?p=208 to https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/
+22:14:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/?add-to-cart=311 (from https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/)
+22:14:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/?add-to-cart=243 (from https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/)
+22:14:55	Warning: 	Found for https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/?add-to-cart=947
+22:14:55	Warning: 	File has moved from https://tn24h.com/product/vintage-mickey-mouse-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:14:57	Warning: 	Moved Permanently for https://tn24h.com/?p=960
+22:14:57	Warning: 	File has moved from https://tn24h.com/?p=960 to https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/
+22:14:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=1045 (from https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/)
+22:15:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=341 (from https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/)
+22:15:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=335 (from https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/)
+22:15:15	Warning: 	Found for https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=947
+22:15:15	Warning: 	File has moved from https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:15:18	Warning: 	Found for https://tn24h.com/product-category/watch-parts/balance-staff/?add-to-cart=947
+22:15:18	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/balance-staff/?add-to-cart=947 to https://tn24h.com/cart/
+22:15:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/balance-staff/?add-to-cart=518 (from https://tn24h.com/product-category/watch-parts/balance-staff/)
+22:15:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/crown/?add-to-cart=520 (from https://tn24h.com/product-category/watch-parts/crown/)
+22:15:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/crown/?add-to-cart=516 (from https://tn24h.com/product-category/watch-parts/crown/)
+22:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/crystal/?add-to-cart=516 (from https://tn24h.com/product-category/watch-parts/crystal/)
+22:15:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/mainspring/?add-to-cart=518 (from https://tn24h.com/product-category/watch-parts/mainspring/)
+22:15:30	Warning: 	Found for https://tn24h.com/product-category/watch-parts/other-parts/?add-to-cart=947
+22:15:30	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/other-parts/?add-to-cart=947 to https://tn24h.com/cart/
+22:15:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/other-parts/?add-to-cart=518 (from https://tn24h.com/product-category/watch-parts/other-parts/)
+22:15:31	Warning: 	Found for https://tn24h.com/product-category/watch-parts/stem/?add-to-cart=947
+22:15:31	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/stem/?add-to-cart=947 to https://tn24h.com/cart/
+22:15:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/stem/?add-to-cart=520 (from https://tn24h.com/product-category/watch-parts/stem/)
+22:15:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/stem/?add-to-cart=517 (from https://tn24h.com/product-category/watch-parts/stem/)
+22:15:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/?add-to-cart=516 (from https://tn24h.com/product-category/watch-parts/?add-to-cart=1051)
+22:15:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/watch-parts/?add-to-cart=515 (from https://tn24h.com/product-category/watch-parts/?add-to-cart=1051)
+22:15:37	Warning: 	Found for https://tn24h.com/product-category/watch-parts/watch-movements/?add-to-cart=947
+22:15:37	Warning: 	File has moved from https://tn24h.com/product-category/watch-parts/watch-movements/?add-to-cart=947 to https://tn24h.com/cart/
+22:15:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/shop/?add-to-cart=341 (from https://tn24h.com/shop/)
+22:15:51	Warning: 	Found for https://tn24h.com/shop/?add-to-cart=947
+22:15:51	Warning: 	File has moved from https://tn24h.com/shop/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:13	Warning: 	Found for https://tn24h.com/product-category/news-item/?add-to-cart=947
+22:16:13	Warning: 	File has moved from https://tn24h.com/product-category/news-item/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/news-item/?add-to-cart=516 (from https://tn24h.com/product-category/news-item/?add-to-cart=243)
+22:16:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/news-item/page/2/?add-to-cart=1032 (from https://tn24h.com/product-category/news-item/page/2/)
+22:16:43	Warning: 	Moved Permanently for https://tn24h.com/product-category/news-item/page/1/
+22:16:43	Warning: 	File has moved from https://tn24h.com/product-category/news-item/page/1/ to https://tn24h.com/product-category/news-item/
+22:16:43	Warning: 	Found for https://tn24h.com/product-category/news-item/page/2/?add-to-cart=947
+22:16:43	Warning: 	File has moved from https://tn24h.com/product-category/news-item/page/2/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:46	Warning: 	Found for https://tn24h.com/product-category/news-item/page/3/?add-to-cart=947
+22:16:46	Warning: 	File has moved from https://tn24h.com/product-category/news-item/page/3/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:52	Warning: 	Found for https://tn24h.com/product-category/news-item/page/4/?add-to-cart=947
+22:16:52	Warning: 	File has moved from https://tn24h.com/product-category/news-item/page/4/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:54	Warning: 	Found for https://tn24h.com/product/a-e-elbe-bloomington-pocket-watch/?add-to-cart=947
+22:16:54	Warning: 	File has moved from https://tn24h.com/product/a-e-elbe-bloomington-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-e-elbe-bloomington-pocket-watch/?add-to-cart=311 (from https://tn24h.com/product/a-e-elbe-bloomington-pocket-watch/?add-to-cart=1027)
+22:17:02	Warning: 	Found for https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=947
+22:17:02	Warning: 	File has moved from https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:17:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=347 (from https://tn24h.com/product/elgin-gold-plate-15j-pocket-watch/?add-to-cart=1027)
+22:17:14	Warning: 	Found for https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=947
+22:17:14	Warning: 	File has moved from https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:17:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/halminton-railway-special-pocket-watch/?add-to-cart=988 (from https://tn24h.com/product/halminton-railway-special-pocket-watch/)
+22:17:27	Warning: 	Found for https://tn24h.com/product/elgin-grade-94-6s-11j-pocket-watch-movement/?add-to-cart=947
+22:17:27	Warning: 	File has moved from https://tn24h.com/product/elgin-grade-94-6s-11j-pocket-watch-movement/?add-to-cart=947 to https://tn24h.com/cart/
+22:17:36	Warning: 	Found for https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=947
+22:17:36	Warning: 	File has moved from https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=947 to https://tn24h.com/cart/
+22:17:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=263 (from https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=228)
+22:17:48	Warning: 	Found for https://tn24h.com/product/elgin-6s-15j-grade-67-pocket-watch-movement/?add-to-cart=947
+22:17:48	Warning: 	File has moved from https://tn24h.com/product/elgin-6s-15j-grade-67-pocket-watch-movement/?add-to-cart=947 to https://tn24h.com/cart/
+22:17:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/elgin-6s-15j-grade-67-pocket-watch-movement/?add-to-cart=269 (from https://tn24h.com/product/elgin-6s-15j-grade-67-pocket-watch-movement/?add-to-cart=1016)
+22:18:01	Warning: 	Moved Permanently for https://tn24h.com/?p=988
+22:18:01	Warning: 	File has moved from https://tn24h.com/?p=988 to https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/
+22:18:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/?add-to-cart=988 (from https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/)
+22:18:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/hot-items/?add-to-cart=1051 (from https://tn24h.com/product-category/hot-items/)
+22:18:21	Warning: 	Moved Permanently for https://tn24h.com/?p=38
+22:18:21	Warning: 	File has moved from https://tn24h.com/?p=38 to https://tn24h.com/tempus-urna-et-pharetra-pharetra-massa-massa-ultricies-mi-quis-2-copy/
+22:18:21	Warning: 	Moved Permanently for https://tn24h.com/?p=1005
+22:18:21	Warning: 	File has moved from https://tn24h.com/?p=1005 to https://tn24h.com/password-reset/
+22:18:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=273 (from https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=1051)
+22:18:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=311 (from https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=1045)
+22:18:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=248 (from https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=1045)
+22:18:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=208 (from https://tn24h.com/product/19th-century-french-charpentier-neoclassical-bronze-clock/?add-to-cart=1027)
+22:18:52	Warning: 	Moved Permanently for https://tn24h.com/?p=220
+22:18:52	Warning: 	File has moved from https://tn24h.com/?p=220 to https://tn24h.com/product/rare-thirty-day-lunar-anniversary-vosseler-clock/
+22:19:06	Warning: 	Moved Permanently for https://tn24h.com/?p=978
+22:19:06	Warning: 	File has moved from https://tn24h.com/?p=978 to https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/
+22:19:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/all-clocks/anniversary-clocks/kienninger-obergfell/?add-to-cart=1032 (from https://tn24h.com/product-category/all-clocks/anniversary-clocks/kienninger-obergfell/?add-to-cart=263)
+22:19:46	Warning: 	Moved Permanently for https://tn24h.com/?p=301
+22:19:46	Warning: 	File has moved from https://tn24h.com/?p=301 to https://tn24h.com/product/antique-2-weights-grandfather-clock/
+22:22:13	Warning: 	Found for https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=947
+22:22:13	Warning: 	File has moved from https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:22:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=215 (from https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/)
+22:22:31	Warning: 	Moved Permanently for https://tn24h.com/shop/page/1/
+22:22:31	Warning: 	File has moved from https://tn24h.com/shop/page/1/ to https://tn24h.com/shop/
+22:22:31	Warning: 	Found for https://tn24h.com/shop/page/2/?add-to-cart=947
+22:22:31	Warning: 	File has moved from https://tn24h.com/shop/page/2/?add-to-cart=947 to https://tn24h.com/cart/
+22:22:33	Warning: 	Found for https://tn24h.com/shop/page/3/?add-to-cart=947
+22:22:33	Warning: 	File has moved from https://tn24h.com/shop/page/3/?add-to-cart=947 to https://tn24h.com/cart/
+22:22:36	Warning: 	Found for https://tn24h.com/shop/page/4/?add-to-cart=947
+22:22:36	Warning: 	File has moved from https://tn24h.com/shop/page/4/?add-to-cart=947 to https://tn24h.com/cart/
+22:22:36	Warning: 	Moved Permanently for https://tn24h.com/?p=999
+22:22:36	Warning: 	File has moved from https://tn24h.com/?p=999 to https://tn24h.com/user/
+22:22:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product-category/news-item/page/2/?add-to-cart=522 (from https://tn24h.com/product-category/news-item/page/2/?add-to-cart=237)
+22:22:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=488 (from https://tn24h.com/product/a-w-co-waltham-royal-8s-11j-pocket-watch-movement/?add-to-cart=220)
+22:22:45	Warning: 	Found for https://tn24h.com/product/am-watch-co-size-6s-9j-waltham-pocket-watch-movement/?add-to-cart=947
+22:22:45	Warning: 	File has moved from https://tn24h.com/product/am-watch-co-size-6s-9j-waltham-pocket-watch-movement/?add-to-cart=947 to https://tn24h.com/cart/
+22:22:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/?add-to-cart=189 (from https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/?add-to-cart=1045)
+22:23:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=978 (from https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=273)
+22:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-black-forest-grandfather-clock/?add-to-cart=261 (from https://tn24h.com/product/vintage-black-forest-grandfather-clock/?add-to-cart=488)
+22:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-tissot-antimagnetic-watch/?add-to-cart=243 (from https://tn24h.com/product/vintage-tissot-antimagnetic-watch/?add-to-cart=522)
+22:23:50	Warning: 	Found for https://tn24h.com/user/
+22:23:50	Warning: 	File has moved from https://tn24h.com/user/ to https://tn24h.com
+22:24:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=978 (from https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=273)
+22:25:07	Warning: 	Found for https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/?add-to-cart=947
+22:25:07	Warning: 	File has moved from https://tn24h.com/product/a-w-w-co-waltham-size-6s-13jpocket-watch-movement/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:09	Warning: 	Found for https://tn24h.com/product/rare-thirty-day-lunar-anniversary-vosseler-clock/?add-to-cart=947
+22:25:09	Warning: 	File has moved from https://tn24h.com/product/rare-thirty-day-lunar-anniversary-vosseler-clock/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/?add-to-cart=947 (from https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/?add-to-cart=220)
+22:25:11	Warning: 	Found for https://tn24h.com/product/antique-2-weights-grandfather-clock/?add-to-cart=947
+22:25:11	Warning: 	File has moved from https://tn24h.com/product/antique-2-weights-grandfather-clock/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/antique-2-weights-grandfather-clock/?add-to-cart=517 (from https://tn24h.com/product/antique-2-weights-grandfather-clock/?add-to-cart=311)
+22:25:15	Warning: 	Found for https://tn24h.com/product/vintage-black-forest-grandfather-clock/?add-to-cart=947
+22:25:15	Warning: 	File has moved from https://tn24h.com/product/vintage-black-forest-grandfather-clock/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:15	Warning: 	Found for https://tn24h.com/product/vintage-hand-carved-black-forest-grandfather-clock/?add-to-cart=947
+22:25:15	Warning: 	File has moved from https://tn24h.com/product/vintage-hand-carved-black-forest-grandfather-clock/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-hand-carved-black-forest-grandfather-clock/?add-to-cart=517 (from https://tn24h.com/product/vintage-hand-carved-black-forest-grandfather-clock/?add-to-cart=978)
+22:25:17	Warning: 	Found for https://tn24h.com/product/fossil-authentic-quartz-watch/?add-to-cart=947
+22:25:17	Warning: 	File has moved from https://tn24h.com/product/fossil-authentic-quartz-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/fossil-authentic-quartz-watch/?add-to-cart=522 (from https://tn24h.com/product/fossil-authentic-quartz-watch/?add-to-cart=507)
+22:25:17	Warning: 	Found for https://tn24h.com/product/__trashed-4/?add-to-cart=947
+22:25:17	Warning: 	File has moved from https://tn24h.com/product/__trashed-4/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/__trashed-4/?add-to-cart=517 (from https://tn24h.com/product/__trashed-4/?add-to-cart=507)
+22:25:20	Warning: 	Found for https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=947
+22:25:20	Warning: 	File has moved from https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=517 (from https://tn24h.com/product/vintage-bulova-automatic-watch/?add-to-cart=508)
+22:25:20	Warning: 	Found for https://tn24h.com/product/vintage-hamilton-electronic-quartz-watch/?add-to-cart=947
+22:25:20	Warning: 	File has moved from https://tn24h.com/product/vintage-hamilton-electronic-quartz-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=508)
+22:25:21	Warning: 	Found for https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=947
+22:25:21	Warning: 	File has moved from https://tn24h.com/product/vintage-stellaris-17j-windup-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=508)
+22:25:22	Warning: 	Found for https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=947
+22:25:22	Warning: 	File has moved from https://tn24h.com/product/vintage-super-king-21-j-citizen-men-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=508)
+22:25:23	Warning: 	Found for https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=947
+22:25:23	Warning: 	File has moved from https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=978 (from https://tn24h.com/product/sears-roebuck-and-co-quartz-pocket-watch/?add-to-cart=514)
+22:25:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-vanguard-23j-waltham-pocket-watch/?add-to-cart=514)
+22:25:29	Warning: 	Found for https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/?add-to-cart=947
+22:25:29	Warning: 	File has moved from https://tn24h.com/product/vintage-elgin-575-15j-pocket-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=947 (from https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=978)
+22:25:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=508)
+22:25:36	Warning: 	Found for https://tn24h.com/product/vintage-tissot-antimagnetic-watch/?add-to-cart=947
+22:25:36	Warning: 	File has moved from https://tn24h.com/product/vintage-tissot-antimagnetic-watch/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:41	Warning: 	Found for https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=947
+22:25:41	Warning: 	File has moved from https://tn24h.com/product/antique-tempus-fugit-grandmother-clock/?add-to-cart=947 to https://tn24h.com/cart/
+22:25:44	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=978 (from https://tn24h.com/product/vintage-technos-automatic-watch/?add-to-cart=508)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 minutes 28 seconds : 3859 links scanned, 3587 files written (516732081 bytes overall) [242162433 bytes received at 83274 bytes/sec], 320937366 bytes transferred using HTTP compression in 2730 files, ratio 13%, 30.1 requests per connection
+(4 errors, 451 warnings, 0 messages)
